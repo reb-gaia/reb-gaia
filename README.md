@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reb-gaia&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reb-gaia&layout=compact&theme=tokyonight)](https://github.com/reb-gaia/github-readme-stats)
+
+
 <!--
 **reb-gaia/reb-gaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
