@@ -1,8 +1,8 @@
 ### Hi there! Welcome ✨
 
-I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!
+I'm a Computer Technician and a Computer Engineering student, both two at CEFET-MG. I have experience working in the design and development of innovative projects and soluctions that optimize administrative and industrial processes.
 
-<!--• 👩‍💻 Currently working at **@Accenture** :purple_heart:-->
+• 👩‍💻 Currently working at **@Accenture** :purple_heart:
 
 
 <a href="https://github.com/reb-gaia/github-readme-stats">
