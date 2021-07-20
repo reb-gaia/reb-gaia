@@ -12,7 +12,7 @@ I'm a Computer Technician and a Computer Engineering student, both two at CEFET-
    <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reb-gaia&layout=compact&theme=vision-friendly-dark&langs_count=6)" />
 </a>
 
-<br/>[![Linkedin Badge](https://img.shields.io/badge/-Find%20me%20on%20Linkedin-6A5ACD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-gaia/)](https://www.linkedin.com/in/rebeca-gaia/)
+<br/>[![Linkedin Badge](https://img.shields.io/badge/-Find%20me%20on%20Linkedin-6A5ACD?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-gaia/)](https://www.linkedin.com/in/rebeca-gaia/)
 [![Gmail Badge](https://img.shields.io/badge/-Send%20me%20an%20email-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reb.gaia@gmail.com)](mailto:reb.gaia@gmail.com)
 
 
