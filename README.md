@@ -6,7 +6,7 @@ I'm a software development student who loves the vastness of technology and who 
 
 
 <a href="https://github.com/reb-gaia/github-readme-stats">
-  <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=reb-gaia&count_private=true&show_icons=true&custom_title=Bianca's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" />
+  <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=reb-gaia&count_private=true&show_icons=true&custom_title=Rebeca's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/reb-gaia/github-readme-stats">
    <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reb-gaia&layout=compact&theme=vision-friendly-dark&langs_count=6)" />
