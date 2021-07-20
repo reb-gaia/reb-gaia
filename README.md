@@ -18,7 +18,6 @@ I'm a Software Developer focused on **Javascript** stack. I'm also a Computer Te
    <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reb-gaia&layout=compact&theme=vision-friendly-dark&langs_count=6)&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
----
 <br/>[![Linkedin Badge](https://img.shields.io/badge/-Find%20me%20on%20Linkedin-6A5ACD?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-gaia/)](https://www.linkedin.com/in/rebeca-gaia/)
 [![Gmail Badge](https://img.shields.io/badge/-Send%20me%20an%20email-6A5ACD?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:reb.gaia@gmail.com)](mailto:reb.gaia@gmail.com)
 
