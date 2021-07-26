@@ -11,10 +11,10 @@ I'm a Software Developer focused on **Javascript** stack. I'm also a Computer Te
 • 💼 Tools: VSCode, GitHub, Figma, Jira, Trello.
 
 
-<a href="https://github.com/reb-gaia/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=reb-gaia&count_private=true&show_icons=true&custom_title=Rebeca's%20Github%20Stats&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=reb-gaia&count_private=true&show_icons=true&custom_title=Rebeca's%20Github%20Stats&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github.com/reb-gaia/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=reb-gaia&layout=compact&theme=vision-friendly-dark&langs_count=6)&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
    <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reb-gaia&layout=compact&theme=vision-friendly-dark&langs_count=6)&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
