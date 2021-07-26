@@ -1,6 +1,6 @@
 ### Hi there! Welcome ✨
 
-I'm a Software Developer focused on **Javascript** stack. I'm also a Computer Technician and a Computer Engineering student, both two at CEFET-MG.
+I'm a Software Developer focused on **Javascript** stack. I'm also a Computer Technician and a Computer Engineering student, both two at CEFET-MG. 
 
 <!-- • 👩‍💻 Currently working at **@Accenture** :purple_heart: -->
 
