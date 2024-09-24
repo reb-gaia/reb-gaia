@@ -1,12 +1,12 @@
 ### Hi there! Welcome ✨
 
-I'm a Software Developer focused on **Javascript** stack. I'm also a Computer Technician and a Computer Engineering student, both at CEFET-MG. 
+I'm a Software Developer!
 
-• 👩‍💻 Currently working at **Accenture** :purple_heart:
+• 📚 Computer Engineer and Computer Technician, both at CEFET-MG
 
-• 🌱 Full Stack Web Developer in progress and an eternal programming student.
+• 👩‍💻 Currently working at **Inter** 🧡:
 
-• 🔭 Skills: HTML, CSS, JavaScript, Angular, Ionic, ReactJS, Node.js e Styled Components.
+• 🔭 Skills: Java, HTML, CSS, JavaScript, Angular, Ionic, ReactJS, Node.js e Styled Components.
 
 • 💼 Tools: VSCode, GitHub, Figma, Jira, Trello.
 
