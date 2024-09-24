@@ -4,7 +4,7 @@ I'm a Software Developer!
 
 • 📚 Computer Engineer and Computer Technician, both at CEFET-MG
 
-• 👩‍💻 Currently working at **Inter** 🧡:
+• 👩‍💻 Currently working at **Inter** 🧡
 
 • 🔭 Skills: Java, HTML, CSS, JavaScript, Angular, Ionic, ReactJS, Node.js e Styled Components.
 
